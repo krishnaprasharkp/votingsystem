@@ -7,7 +7,7 @@ using namespace std;
 
 class VotingSystem {
 private:
-    vector<string> candidates = {"pegwant mann", "sukha", "majithia"};
+    vector<string> candidates = {"pegwant mann", "sukha", "bikramsinghmajithia"};
     vector<int> votes = {0, 0, 0};
 
     bool hasVoted(const string& voterID) {
