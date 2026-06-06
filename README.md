@@ -19,7 +19,7 @@ The Voting System is a simple digital voting application where:
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Cast vote using unique Voter ID
 - Prevent duplicate voting
@@ -32,7 +32,7 @@ The Voting System is a simple digital voting application where:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |----------|---------|
