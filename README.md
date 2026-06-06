@@ -1,4 +1,4 @@
-# 🗳️ Voting System in C++
+#  Voting System in C++
 
 A console-based **Voting System** built using **C++** that allows users to cast votes, prevents duplicate voting using voter IDs, stores voting records in files, and displays election results.
 
@@ -6,7 +6,7 @@ This project demonstrates basic concepts of **C++ programming, file handling, ve
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The Voting System is a simple digital voting application where:
 
