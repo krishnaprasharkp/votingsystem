@@ -101,7 +101,7 @@ Each number represents a vote given to a candidate.
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - Classes and Objects
 - Encapsulation
@@ -115,7 +115,7 @@ Each number represents a vote given to a candidate.
 
 ---
 
-## ⚙️ How the System Works
+##  How the System Works
 
 ```text
 Start Program
@@ -157,7 +157,7 @@ Display Menu
 
 ---
 
-## 🧾 Code Explanation
+##  Code Explanation
 
 ### 1. Candidate and Vote Storage
 
@@ -231,7 +231,7 @@ This function displays candidate-wise voting results.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Step 1: Clone the Repository
 
@@ -265,7 +265,7 @@ voting.exe
 
 ---
 
-## 💻 Sample Output
+##  Sample Output
 
 ```text
 === Online Voting System ===
@@ -303,7 +303,7 @@ majithia: 1 votes
 
 ---
 
-## 🔐 Duplicate Vote Prevention
+##  Duplicate Vote Prevention
 
 The system prevents duplicate voting by storing every successful voter ID in `voters.txt`.
 
@@ -319,7 +319,7 @@ If no, the voter is allowed to vote.
 
 ---
 
-## 📊 Data Storage Logic
+##  Data Storage Logic
 
 This project uses simple file-based storage.
 
@@ -332,7 +332,7 @@ This makes the vote data persistent even after the program closes.
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 - No admin password protection
 - No database integration
@@ -343,7 +343,7 @@ This makes the vote data persistent even after the program closes.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Add admin login system
 - Add password-protected result viewing
@@ -357,7 +357,7 @@ This makes the vote data persistent even after the program closes.
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I practiced:
 
@@ -370,7 +370,7 @@ Through this project, I practiced:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Krishna Prashar**  
 B.Tech Computer Science & Engineering  
@@ -380,12 +380,12 @@ GitHub: [krishnaprasharkp](https://github.com/krishnaprasharkp)
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project helpful, consider giving it a star ⭐ on GitHub.
 
 ---
 
-## 📌 Repository
+##  Repository
 
 [GitHub Repository](https://github.com/krishnaprasharkp/votingsystem)
