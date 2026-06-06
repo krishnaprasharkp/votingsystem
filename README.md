@@ -44,7 +44,7 @@ The Voting System is a simple digital voting application where:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 votingsystem/
@@ -57,7 +57,7 @@ votingsystem/
 
 ---
 
-## 📄 File Explanation
+##  File Explanation
 
 ### `voting.cpp`
 
