@@ -4,6 +4,7 @@
 
 </div>
 
+
 A console-based **Voting System** built using **C++** that allows users to cast votes, prevents duplicate voting using voter IDs, stores voting records in files, and displays election results.
 
 This project demonstrates basic concepts of **C++ programming, file handling, vectors, classes, encapsulation, and menu-driven application design**.
