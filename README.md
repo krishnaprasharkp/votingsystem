@@ -1,10 +1,8 @@
-<h1 align="center">
-   Voting System in C++
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Secure+Voting+System;File+Handling+Project;Built+Using+C%2B%2B" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=🗳️+Voting+System+in+C%2B%2B" />
+
+</div>
 
 A console-based **Voting System** built using **C++** that allows users to cast votes, prevents duplicate voting using voter IDs, stores voting records in files, and displays election results.
 
